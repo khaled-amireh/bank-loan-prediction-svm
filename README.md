@@ -89,10 +89,3 @@ This project models complex risk boundaries using a **Kernel SVM (RBF Kernel)** 
 * **Catching Default Risks:** By introducing `class_weight='balanced'`, the model prioritizes identifying actual defaults, achieving a **75% Recall on Class 1** (correctly flagging **1,087 high-risk applicants** out of 1,445 in the test set).
 * **Risk Mitigation vs. False Alarms:** The pipeline sacrifices a minor fraction of overall accuracy to cut missed defaults down to **358 (False Negatives)**, protecting the bank against capital loss.
 
----
-
-## Installation & Execution
-
-### Requirements
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
