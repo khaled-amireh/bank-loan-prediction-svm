@@ -50,6 +50,18 @@ This project models complex risk boundaries using a **Kernel SVM (RBF Kernel)** 
 
 ---
 
+## Project Workflow
+
+1. Load and inspect dataset
+2. Handle missing values
+3. Encode categorical features
+4. Scale numerical features
+5. Train Kernel SVM model
+6. Evaluate performance
+7. Analyze business impact
+
+---
+
 ## Key Results & Evaluation
 
 | Metric | Performance |
