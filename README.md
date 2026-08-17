@@ -16,6 +16,17 @@ This project models complex risk boundaries using a **Kernel SVM (RBF Kernel)** 
 
 ---
 
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
+---
+
 ## Dataset Overview
 
 * **Source:** [Credit Risk Dataset on Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
