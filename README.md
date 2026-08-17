@@ -37,6 +37,17 @@ This project models complex risk boundaries using a **Kernel SVM (RBF Kernel)** 
 * **Credit History:** Default History (`Y`/`N`), Credit History Length.
 * **Target Variable (`loan_status`):** `0` = Approved / Non-Default, `1` = Default / High Risk[cite: 1, 2].
 
+## Feature Summary
+
+| Feature | Description |
+|----------|-------------|
+| person_age | Applicant age |
+| person_income | Annual income |
+| loan_amnt | Requested loan amount |
+| loan_int_rate | Loan interest rate |
+| loan_percent_income | Loan-to-income ratio |
+| cb_person_cred_hist_length | Credit history length |
+
 ---
 
 ## Technical Pipeline
