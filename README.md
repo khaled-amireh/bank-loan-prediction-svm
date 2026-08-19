@@ -1,4 +1,4 @@
-# Bank Loan Approval Prediction using Kernel SVM
+# Bank Loan Approval Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
